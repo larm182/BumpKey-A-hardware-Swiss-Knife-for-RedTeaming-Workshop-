@@ -7,3 +7,5 @@ All aspects of the device will be explained, from its construction piece by piec
 
 
 https://docs.google.com/presentation/d/1B8esCFN6iqr6myeXzZst5dtSDhdhS_eAuuGxenC6_wA/edit?usp=sharing
+
+BumpKey by @dc5411. It was authored by Luis Ángel Ramírez Mendoza and Mauro Eldritch
